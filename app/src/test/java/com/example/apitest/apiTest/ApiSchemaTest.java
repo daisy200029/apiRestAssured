@@ -1,4 +1,4 @@
-package com.example.apitest;
+package com.example.apitest.apiTest;
 
 import org.junit.Test;
 
@@ -16,6 +16,8 @@ import static io.restassured.module.jsv.JsonSchemaValidator.matchesJsonSchemaInC
  *
  * @see <a href="http://d.android.com/tools/testing">Testing documentation</a>
  */
+
+
 public class ApiSchemaTest {
     private static final String NEWSPOIN_BASE_URL= "http://partnersnp.indiatimes.com/feed/fx/atp";
 
